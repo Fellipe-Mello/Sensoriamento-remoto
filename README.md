@@ -1,1 +1,0 @@
-# Sensoriamento-remoto
