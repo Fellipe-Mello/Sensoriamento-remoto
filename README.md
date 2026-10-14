@@ -1,6 +1,6 @@
 # Sensoriamento Remoto — Processamento de Imagens Orbitais para Estudos de Solo e Vegetação
 
-Este repositório reúne scripts em **Python** e **R** para o processamento de imagens de satélite aplicadas ao estudo de **solos e vegetação em áreas agrícolas**. Os códigos cobrem as etapas de aquisição e preparação de imagens, cálculo de índices espectrais, obtenção da **Imagem sintética de solo exposto (ISSE)** — em inglês, *Synthetic Soil Image* (SYSI) —, integração de covariáveis ambientais e delimitação de **zonas de manejo** por agrupamento não supervisionado.
+Este repositório reúne scripts em **Python** e **R** para o processamento de imagens de satélite aplicadas ao estudo de **solos e vegetação em áreas agrícolas**. Os códigos cobrem as etapas de aquisição e preparação de imagens, cálculo de índices espectrais, obtenção da **Imagem sintética de solo exposto (ISSE)** — em inglês, *Synthetic Soil Image* —, integração de covariáveis ambientais e delimitação de **zonas de manejo** por agrupamento não supervisionado.
 
 ---
 
